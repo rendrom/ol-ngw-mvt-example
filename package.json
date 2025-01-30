@@ -1,0 +1,13 @@
+{
+  "name": "ol-ngw-mvt-example",
+  "version": "1.0.0",
+  "description": "",
+  "source": "./src/index.html",
+  "scripts": {
+    "start": "parcel -p 8080"
+  },
+  "devDependencies": {
+    "ol": "^10.4.0",
+    "parcel": "^2.13.3"
+  }
+}
